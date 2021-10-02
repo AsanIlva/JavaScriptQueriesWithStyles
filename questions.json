@@ -1,0 +1,34 @@
+[
+{
+    "question": "What type of language is JavaScript",
+    "choice1": "Object-Oriented",
+    "choice2": "Object-Based",
+    "choice3": "Assembly-Language",
+    "Choice4": "High-Level",
+    "answer": 2
+},
+{
+    "question": "What is 'function' and 'var' are known as?",
+    "choice1": "Keywords",
+    "choice2": "Data types",
+    "choice3": "Declaration statements",
+    "choice4": "Prototypes",
+    "answer": 3   
+},
+{
+    "question": "Which of the following variables takes precedence over the others if the names are the same?",
+    "choice1": "Global variable",
+    "choice2": "The local element",
+    "choice3": "The two of the above",
+    "choice4": "None of the above",
+    "answer": 2
+},
+{
+  "question": "In the JavaScript, which one of the following is not considered as an error?",
+  "choice1": "Syntax error",
+  "choice2": "Missing of semicolons",
+  "choice3": "Division by zero",
+  "choice4": "Missing of Bracket",
+  "answer": 3 
+}
+]
